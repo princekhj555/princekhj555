@@ -1,12 +1,12 @@
 ### Hi there, I'm Prince Sharma  👋
 
 
-## I'm a CSE student|| Web Developer (MERN) !!
+## I'm a CSE student || Web Developer (MERN) !!
 
 - 🌱 I’m currently learning everything [MERN/DSA/Android] 🤣
 - 👯 I’m looking to collaborate with other content creators
 
-[![Prince's GitHub stats](https://github-readme-stats.vercel.app/api?username=princekhj555&show_icons=true&theme=dark)]
+![Prince's GitHub stats](https://github-readme-stats.vercel.app/api?username=princekhj555&show_icons=true&theme=dark)
 
 ### Connect with me:
 
