@@ -7,6 +7,8 @@
 - 👯 I’m looking to collaborate with other content creators
 
 ![Prince's GitHub stats](https://github-readme-stats.vercel.app/api?username=princekhj555&show_icons=true)
+![Prince's Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=princekhj555)
+![Prince's Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=princekhj555&show_icons=true&locale=en&layout=compact)
 
 ### Connect with me:
 
