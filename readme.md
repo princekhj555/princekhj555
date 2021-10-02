@@ -7,8 +7,7 @@
 - 👯 I’m looking to collaborate with other content creators
 
 ![Prince's GitHub stats](https://github-readme-stats.vercel.app/api?username=princekhj555&show_icons=true)
-![Prince's Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=princekhj555)
-![Prince's Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=princekhj555&show_icons=true&locale=en&layout=compact)
+
 
 ### Connect with me:
 
@@ -33,7 +32,7 @@
 <img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />
 <img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 
-
+![Prince's Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=princekhj555)
 
 
 [twitter]: https://twitter.com/princekhj555
