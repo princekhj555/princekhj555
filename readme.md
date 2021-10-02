@@ -10,9 +10,9 @@
 
 ### Connect with me:
 
-[<img align="left" alt="Princekhj555 | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="princekhj555 | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="princekhj555| Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="Princekhj555 | Twitter" width="22px" src="https://www.svgrepo.com/show/354474/twitter.svg" />][twitter]
+[<img align="left" alt="princekhj555 | LinkedIn" width="22px" src="https://www.svgrepo.com/show/157006/linkedin.svg" />][linkedin]
+[<img align="left" alt="princekhj555| Instagram" width="22px" src="https://www.svgrepo.com/show/111199/instagram.svg" />][instagram]
 <br />
 
 ### Languages and Tools:
