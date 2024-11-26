@@ -1,10 +1,11 @@
 ### Hi there, I'm Prince Sharma  👋
 
 
-## I'm a CSE student || Web Developer (MERN) !!
+## Backend Developer || Java - SpringBoot !!
 
-- 🌱 I’m currently learning everything [MERN/DSA/Android] 🤣
-- 👯 I’m looking to collaborate with other content creators
+- 🌱 I'm a skilled backend developer with expertise in Java, Spring Boot, SQL, and Spring 
+Batch. Passionate about building scalable, high-performing APIs and delivering efficient solutions. Adaptable, fastlearner, detail-oriented, and driven by deadlines.
+- 👯 I’m looking to collaborate with other creators for some exciting roles
 
 ![Prince's GitHub stats](https://github-readme-stats.vercel.app/api?username=princekhj555&show_icons=true)
 
@@ -31,6 +32,7 @@
 <img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
 <img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />
 <img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
+<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/redis/redis.png" />
 <br />
 <br />
 
