@@ -4,7 +4,7 @@
 ## Backend Developer || Java - SpringBoot !!
 
 - 🌱 I'm a skilled backend developer with expertise in Java, Spring Boot, SQL, and Spring 
-Batch. Passionate about building scalable, high-performing APIs and delivering efficient solutions. Adaptable, fast learner, detail-oriented, and driven by deadlines.
+Batch. Passionate about building scalable, high-performing APIs and delivering efficient solutions. Adaptable, fast learner, detail-oriented, and driven by deadlines.
 - 👯 I’m looking to collaborate with other creators for some exciting roles
 
 ![Prince's GitHub stats](https://github-readme-stats.vercel.app/api?username=princekhj555&show_icons=true)
